@@ -1,7 +1,7 @@
 {
-  "name": "web-dev",
+  "name": "nodedeva",
   "version": "0.0.1",
-  "description": "Web Maker",
+  "description": "Node Development Environment A",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.1",
