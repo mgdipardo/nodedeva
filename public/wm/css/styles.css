@@ -1,0 +1,88 @@
+a:hover {
+  text-decoration: none;
+}
+
+input.form-control {
+  margin-bottom: 5px;
+}
+
+body {
+  padding-top: 65px;
+  padding-bottom: 65px;
+  overflow: hidden;
+}
+
+.stickyheader-title {
+  font-size: x-large;
+}
+
+.stickyheader-align-right {
+  margin-right: 15px;
+}
+
+.left-navheader {
+  padding-left: 0px;
+}
+
+.right-navheader {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.stickyheader-align-left {
+  margin-left: 15px;
+}
+
+.user-pages-theme {
+  color: white;
+  background-color: #2196f3;
+  border-color: #1e88e5;
+}
+
+.website-pages-theme {
+  color: white;
+  background-color: #8bc34a;
+  border-color: #7cb342;
+}
+
+.page-pages-theme {
+  color: white;
+  background-color: #e53935;
+  border-color: #d32f2f;
+}
+
+.widget-pages-theme {
+  color: white;
+  background-color: #ff9800;
+  border-color: #fb8c00;
+}
+
+.icon-links {
+  color: black;
+}
+
+.object-underlay {
+  position: relative
+}
+
+.object-overlay {
+  position: absolute;
+  padding-right: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 10;
+  background-color: white;
+}
+
+.video-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.list-group-item{
+  border: none;
+}
+
+.wam-scroll{
+  overflow: auto;
+}
